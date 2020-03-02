@@ -1,4 +1,4 @@
-require "spec_helper"
+zrequire "spec_helper"
 
 describe "Student" do 
   let!(:student_index_array) {[{:name=>"Alex Patriquin", :location=>"New York, NY"},
